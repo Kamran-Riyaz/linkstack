@@ -35,3 +35,9 @@ main a {
 .link-container:hover {
   background-color: #0057b3e5;
 }
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #7b76b8;
+}

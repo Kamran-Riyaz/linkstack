@@ -23,11 +23,15 @@ main a {
 }
 
 .link-container {
-  background-color: #000000a9;
+  background-color: #0056b3;
   width: 200px;
   height: 30px;
   padding: 5px;
   margin: 5px;
   border-radius: 5px;
   text-align: center;
+}
+
+.link-container:hover {
+  background-color: #0057b3e5;
 }

@@ -2,8 +2,8 @@
 
 A personal link page for Kamran Riyaz, showcasing his social media profiles and professional identity as a Full Stack Developer.
 
-**Live Demo:** kamran-riyaz.github.io/linkstack/  
-**GitHub Repo:** github.com/Kamran-Riyaz/linkstack
+**Live Demo:** [kamran-riyaz.github.io/linkstack/](https://kamran-riyaz.github.io/linkstack/)  
+**GitHub Repo:** [github.com/Kamran-Riyaz/linkstack](https://github.com/Kamran-Riyaz/linkstack)
 
 ## What This Project Does
 

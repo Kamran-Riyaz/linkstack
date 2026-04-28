@@ -2,6 +2,9 @@
 
 A personal link page for Kamran Riyaz, showcasing his social media profiles and professional identity as a Full Stack Developer.
 
+**Live Demo:** kamran-riyaz.github.io/linkstack/  
+**GitHub Repo:** github.com/Kamran-Riyaz/linkstack
+
 ## What This Project Does
 
 This project is a simple, responsive personal link page that serves as a central hub for Kamran Riyaz's online presence. It displays his profile picture, name, and title, along with clickable links to his various social media platforms including LinkedIn, Instagram, Facebook, X (formerly Twitter), and YouTube.
